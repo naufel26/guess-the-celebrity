@@ -28,6 +28,7 @@
 		C366DD091CB25CB800BB6B3B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C366DD071CB25CB800BB6B3B /* Main.storyboard */; };
 		C366DD0B1CB25CB800BB6B3B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C366DD0A1CB25CB800BB6B3B /* Assets.xcassets */; };
 		C366DD0E1CB25CB800BB6B3B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C366DD0C1CB25CB800BB6B3B /* LaunchScreen.storyboard */; };
+		DA0A8F001CBBBD5A00B346A5 /* 4_level_selector.png in Resources */ = {isa = PBXBuildFile; fileRef = DA0A8EFF1CBBBD5A00B346A5 /* 4_level_selector.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -54,6 +55,7 @@
 		C366DD0A1CB25CB800BB6B3B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C366DD0D1CB25CB800BB6B3B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C366DD0F1CB25CB800BB6B3B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DA0A8EFF1CBBBD5A00B346A5 /* 4_level_selector.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4_level_selector.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 				C359B77E1CBB9FA6008ACD84 /* btn_share_facebook.png */,
 				C359B77F1CBB9FA6008ACD84 /* btn-db-restore.png */,
 				C359B7801CBB9FA6008ACD84 /* btn-sound-off.png */,
+				DA0A8EFF1CBBBD5A00B346A5 /* 4_level_selector.png */,
 				C359B7811CBB9FA6008ACD84 /* btn-sound-on.png */,
 				C359B7821CBB9FA6008ACD84 /* character_1.png */,
 				C359B7831CBB9FA6008ACD84 /* character_2.png */,
@@ -180,6 +183,7 @@
 			files = (
 				C359B7911CBB9FA6008ACD84 /* character_2.png in Resources */,
 				C359B7961CBB9FA6008ACD84 /* play.png in Resources */,
+				DA0A8F001CBBBD5A00B346A5 /* 4_level_selector.png in Resources */,
 				C359B78A1CBB9FA6008ACD84 /* btn_iap.png in Resources */,
 				C366DD0E1CB25CB800BB6B3B /* LaunchScreen.storyboard in Resources */,
 				C359B7921CBB9FA6008ACD84 /* character_3.png in Resources */,
